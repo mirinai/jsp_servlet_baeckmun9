@@ -19,6 +19,9 @@
 			<td>
 				이름(아이디): ${loginUser.name}(${loginUser.userid}) 로그인함
 			</td>
+			<td>
+				
+			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
