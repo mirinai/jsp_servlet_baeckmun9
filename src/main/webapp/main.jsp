@@ -17,7 +17,7 @@
 	<table>
 		<tr>
 			<td>
-				하이 ${loginUser.name}(${loginUser.userid})야 반갑다 
+				이름(아이디): ${loginUser.name}(${loginUser.userid}) 로그인함
 			</td>
 		</tr>
 		<tr>
